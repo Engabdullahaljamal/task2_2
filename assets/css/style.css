@@ -82,6 +82,10 @@ p {
     gap: 5px;
 }
 
+.icon img {
+    margin-bottom: 15px;
+}
+
 #skills .container,
 #interests .container {
 
